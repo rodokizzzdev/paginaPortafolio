@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Mi Primer Proyecto",
+        "description": "Una breve descripción de lo que hace mi primer proyecto. Explica sus funcionalidades clave y tecnologías utilizadas.",
+        "readmeUrl": "https://raw.githubusercontent.com/[TuUsuario]/[nombre-del-repo]/main/README.md",
+        "repoUrl": "https://github.com/[TuUsuario]/[nombre-del-repositorio]"
+    },
+    {
+        "name": "Figuras geométricas - Área y perímetro- PHP",
+        "description": "Este es un proyecto web sencillo que te permite calcular el área y el perímetro de figuras geométricas básicas: un cuadrado, un círculo y un triángulo.",
+        "readmeUrl": "https://github.com/rodokizzzdev/AyPFigurasPHP-/blob/main/README.md",
+        "repoUrl": "https://github.com/rodokizzzdev/AyPFigurasPHP-"
+    }
+]
